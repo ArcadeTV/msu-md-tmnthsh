@@ -1,10 +1,10 @@
-# msu-md-tmnthh
+# msu-md-tmnthsh
 
-Please see the [Changelog](https://github.com/ArcadeTV/msu-md-tmnthh/blob/master/Changelog.md)
+Please see the [Changelog](https://github.com/ArcadeTV/msu-md-tmnthsh/blob/master/Changelog.md)
 
 For help topics please see this [wiki](http://msu.arcade-tv.de)
 
-Report any issues [here](https://github.com/ArcadeTV/msu-md-tmnthh/issues)
+Report any issues [here](https://github.com/ArcadeTV/msu-md-tmnthsh/issues)
 
 ```
  _____               _     _____ _____ 
@@ -37,7 +37,7 @@ Thanks:        pepodmc (soundPack)
 Soundpacks:    pepodmc:  
                >> tba
                
-Source:        https://github.com/ArcadeTV/msu-md-tmnthh
+Source:        https://github.com/ArcadeTV/msu-md-tmnthsh
 
 Driver Source: https://github.com/krikzz/msu-md
 
@@ -51,5 +51,5 @@ Driver Source: https://github.com/krikzz/msu-md
 3. Download the SoundPacks and make sure the rom and cue files have identical base-filenames (eg. game.md and game.cue)
 4. Make sure all files are in the same folder
 5. If using an emulator, make sure you are using the correct CD bios files!
-6. Report any issues here: https://github.com/ArcadeTV/msu-md-tmnthh/issues
+6. Report any issues here: https://github.com/ArcadeTV/msu-md-tmnthsh/issues
 ```   
