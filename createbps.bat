@@ -1,0 +1,1 @@
+..\flips.exe --create ".\ROMS\Wonder Boy in Monster World (USA, Europe).md" ".\OUTPUT\out.md" ".\OUTPUT\WonderBoy5_MSU-MD_v0.3_ArcadeTV.bps"

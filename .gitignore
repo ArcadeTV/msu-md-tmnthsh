@@ -1,0 +1,14 @@
+# ignore
+/BIN
+/GFX
+/OST
+/OUTPUT
+/ROMS
+/VGM
+Listing.txt
+patch_saved.asm
+srecfile.txt
+*.mkv
+*.wmv
+*.avi
+*.mp4
