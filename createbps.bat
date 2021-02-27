@@ -1,1 +1,1 @@
-..\flips.exe --create ".\ROMS\Wonder Boy in Monster World (USA, Europe).md" ".\OUTPUT\out.md" ".\OUTPUT\WonderBoy5_MSU-MD_v0.3_ArcadeTV.bps"
+..\flips.exe --create ".\ROMS\Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md" ".\OUTPUT\out.md" ".\OUTPUT\TMNT_THH_MSU-MD_v0.1_ArcadeTV[incl.PyronColorEnh].bps"

@@ -41,6 +41,10 @@ Source:        https://github.com/ArcadeTV/msu-md-tmnthsh
 
 Driver Source: https://github.com/krikzz/msu-md
 
+Includes:      "Enhanced colors" 
+               by PYRON
+               https://www.romhacking.net/hacks/2330/ <- for reference, no additional patching required
+
 #############################################################################################################################
 
 ### HOW TO USE
